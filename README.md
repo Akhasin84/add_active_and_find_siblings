@@ -17,6 +17,9 @@ You would need to add id attribute to each of this items in order to use this
 script since it compares them via id.
 
 I know it is an easier way to use jQuery for this, but this is more useful and interesting as for me.
+(without Jquery you have less code attached to your page, it matters especialy if it is a simple page.)
+
+Thanks for taking a look.
 
 
 
